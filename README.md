@@ -7,7 +7,7 @@ There is also an excellent page here (https://www.facebook.com/fbgaminghome/deve
 
 1. [Install Node JS](https://nodejs.org/en/download/)
 1. [Install Yarn](https://yarnpkg.com/en/docs/install)
-1. Download or clone this repository
+1. Download or clone this repository.
 
 ## Setup
 1. Make sure that your Instant Game app is setup. For more information see [our Setup Guide](https://developers.facebook.com/docs/messenger-platform/getting-started/app-setup)
